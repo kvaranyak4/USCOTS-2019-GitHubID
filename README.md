@@ -34,6 +34,7 @@
 | Adam Sullivan | sullivanstatistics | |
 |Leigh Johnson | drleigh | |
 | Bradford | dykesb | <https://dykesb.github.io> |
+|Krista Varanyak | kvaranyak4| |
 
 <br>
 
